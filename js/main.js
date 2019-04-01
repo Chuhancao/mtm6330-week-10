@@ -81,4 +81,5 @@ $(document).ready(function ($) {
       post += '</p></div>'
     }
   })
+  AOS.init()
 })
